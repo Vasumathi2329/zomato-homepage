@@ -1,1 +1,1 @@
-https://zomato-homepageclone.netlify.app/
+https://zomato-homeclone.netlify.app/
